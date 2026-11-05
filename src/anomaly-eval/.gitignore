@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.vscode/
+.idea/
+.DS_Store
+*.log
+data/*.log
+data/*.csv
+roc_comparison.pdf

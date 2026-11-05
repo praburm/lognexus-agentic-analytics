@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+*.log
+wf_*.png
+workflow_*.png
